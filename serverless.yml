@@ -25,4 +25,4 @@ functions:
   handler:
     handler: handler.delete
     timeout: 120
-    reservedConcurrency: 50
+    reservedConcurrency: 1
