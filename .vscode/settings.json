@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "/Volumes/development/work/fedex/delete_old_dates/delete-old-dates/.venv/bin/python3",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.mypyEnabled": true,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "python.linting.flake8Args": [
+        "--max-line-length=88"
+    ]
+}
